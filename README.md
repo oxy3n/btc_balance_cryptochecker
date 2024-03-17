@@ -1,6 +1,6 @@
 # crypto_checker
 
-
+В наличии крипточекеры в сетях:
 I HAVE CRYPTOCHECKER SCRIPTS IN:
 
 EVM - ( eth/bsc/polygon/fantom/avax/arb/op/base/scroll/zksync/ronin/moonriver and other
@@ -14,9 +14,9 @@ ALL SCRIPTS ARE IN SOURCE
 
 WRITE ME TO PURCHASE -
 
-https:/t.me/drrfree
-https:/t.me/drrfree
-https:/t.me/drrfree
+https://t.me/drrfree
+https://t.me/drrfree
+https://t.me/drrfree
 
 
 
